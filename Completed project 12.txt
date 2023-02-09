@@ -1,0 +1,31 @@
+Job Number:      12
+Job Name:        New Home
+Build Type:      house
+Project Address: 27 Carmichael Place, Irvine, North Ayrshire, KA12 0XH
+ERF Number:      365
+Project Total:   215000.0
+Amount Paid:     104000.0
+Amount Owed:     111000.0
+Build Deadline:  25/12/2025
+Completion Date: 08/11/2022
+
+-----Architect-----
+Architect
+Name:            Calum Gilchrist
+Phone number:    07772541875
+Email address:   calum@gilchrist.com
+Address:         My house, Irvine
+
+-----Contractor-----
+Contractor
+Name:            James Anderson
+Phone number:    01294 237624
+Email address:   jamesa@builder.co.uk
+Address:         Kilmarnock, East Ayrshire
+
+-----Customer-----
+Customer
+Name:            Mrs Smith
+Phone number:    01294 876543
+Email address:   smith@btinternet.com
+Address:         83 Fintry Place, Kilwinning, KA7 8GB
